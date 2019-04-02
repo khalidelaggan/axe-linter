@@ -57,3 +57,9 @@ The app will refresh in the browser and the developer will be prompt inside the 
 
 1. [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/page-structure/headings/)
 2. [axe-core API](https://github.com/dequelabs/axe-core)
+
+# demo
+ [visual demo link](https://www.useloom.com/share/74507a6c271f4ed9b1df3d0c3262f175)
+
+
+
